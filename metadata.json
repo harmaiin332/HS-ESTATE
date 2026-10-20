@@ -1,0 +1,7 @@
+{
+  "name": "HS ESTATE - Dubai Luxury Real Estate",
+  "description": "Discover Better. Live Smarter. Ultra-luxury real estate, exclusive penthouses, beachfront villas, and prime off-plan investments in Dubai, UAE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
